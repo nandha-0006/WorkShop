@@ -1,0 +1,26 @@
+.ant-form-item-label {
+    font-weight: bold;
+  }
+  
+  .ant-input {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+  }
+  
+  .ant-btn {
+    background-color: rgb(156, 220, 217);
+    color: black;
+    border: none;
+  }
+  
+  .ant-btn:hover {
+    background-color: #50c4b7;
+  }
+  
+  .col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
